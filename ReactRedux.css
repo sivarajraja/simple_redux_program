@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(129, 71, 51);
+    
+}
+
+button{
+    margin-top: 30px;
+    padding: 7px 15px;
+}
+
+input{
+    margin-left: 20px;
+    margin-top: 35px;
+    padding: 8px;
+}
+
